@@ -10,5 +10,6 @@
 ## Javascript
 - [const과 let 차이점](./Javascript/const&let.md)
 - [objects 사용](./Javascript/objects.md)
+- [function 예시](./Javascript/function.md)
 
 ## ERROR

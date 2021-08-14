@@ -1,14 +1,12 @@
 # BufferedReader와 BufferedWriter를 이용한 기초 알고리즘
 
-## BufferedReader&BufferedWriter
-
+## BufferedReader & BufferedWriter
 - 문자 기반의 보조 스트림으로 버퍼를 이용해서 입출력의 효율을 높일 수 있도록 해주는 역할
 
-## InputStreamReader와 OutputStreamWriter
+## InputStreamReader & OutputStreamWriter
 - 문자 기반의 보조 스트림으로 바이트 기반 스트림을 문자 기반 스트림으로 연결시켜주는 역할
 
-- A + B 의 합 구하기
-
+- A + B 합 구하기
 
 ```java
 import java.io.BufferedReader;
@@ -43,7 +41,6 @@ import java.util.StringTokenizer;
 
 public class test {
 	public static void main(String[] args) throws IOException {
-		
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		
@@ -64,7 +61,7 @@ public class test {
 		}
 
         //flush() : 모든 내용 출력
-		bw.flush(); 
+		bw.flush();
 	}
 }
 ```

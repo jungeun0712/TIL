@@ -14,6 +14,6 @@
 - [Element들](./Javascript/Element.md)
 
 ## JAVA
-- [기초알고리즘_BufferedReader와 BufferedWriter](BufferedReader&BufferedWriter.md)
+- [기초알고리즘_BufferedReader와 BufferedWriter](./Java/BufferedReader&BufferedWriter.md)
 
 ## ERROR

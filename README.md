@@ -15,5 +15,6 @@
 
 ## Java
 - [기초알고리즘_BufferedReader와 BufferedWriter](./Java/BufferedReader&BufferedWriter.md)
+- [기초알고리즘_While문](./Java/While_Algorithm.md)
 
 ## ERROR
